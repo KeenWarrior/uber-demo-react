@@ -60,7 +60,7 @@ export default function Home() {
               marginBottom: "16px",
             }}
           >
-            Welcome to Golden Star Apartment
+            Welcome to IGI Airport Delhi
           </Typography>
 
           <Typography variant="body2">Pick-up Details</Typography>
